@@ -1,0 +1,13 @@
+{
+  "cloud": {
+    "framework": "nextjs",
+    "environments": {
+      "development": {
+        "mount_path": "/lp"
+      },
+      "production": {
+        "mount_path": "/lp"
+      }
+    }
+  }
+}
